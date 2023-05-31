@@ -1,6 +1,10 @@
 # 🌈 Seasons Slide Project 🌸
 
-I created a project showcasing seasons using HTML, CSS, and JavaScript. Through this project, I had the opportunity to enhance my understanding of the Document Object Model (DOM). 📚
+I created a project showcasing seasons using 
+- **HTML**, 
+* **CSS**,  
++ **JavaScript**. 
+Through this project, I had the opportunity to enhance my understanding of the Document Object Model (DOM). 📚
 
 You can access the live version of the project through the following link: [Live Version](https://sliders-seasons.vercel.app/) 🌍
 
